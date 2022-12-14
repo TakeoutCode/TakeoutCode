@@ -13,9 +13,13 @@
   <a href="https://twitter.com/takeoutcode" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">
   </a>
-  <a href="mailto:briandv198@gmail.com?subject=Hola%20Brian">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" />
+  <a href="https://youtube.com/@takeoutcode" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube&color=FF0000&logo=YouTube&logoColor=FFFFFF&label=" />
   </a>
+  <a href="https://www.facebook.com/takeoutcode" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1b74e4&logo=Facebook&logoColor=FFFFFF&label=" />
+  </a>
+  
 </p>
 <h2>⚒ Technical skills</h2>
 <p>
@@ -56,7 +60,7 @@
    
 </p>
 
-<h3>Deploymanet</h2>
+<h3>Deployment</h2>
 
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 ![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=222222&logo=Netlify&logoColor=00C7B7&label=)
