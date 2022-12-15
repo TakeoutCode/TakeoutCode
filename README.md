@@ -67,7 +67,27 @@
 ![Railway](https://img.shields.io/static/v1?style=for-the-badge&message=Railway&color=0B0D0E&logo=Railway&logoColor=FFFFFF&label=)
 
 ## 📈 Github Stats
-![](https://raw.githubusercontent.com/RaulprTech/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/RaulprTech/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/RaulprTech/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/RaulprTech/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+<p align="center">
+  <a href="https://github.com/TakeoutCode/github-readme-stats" target="_bank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=TakeoutCode&show_icons=true&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakeoutCode&theme=tokyonight" />
+  </a>
+</p>
+
+
+## 📚 Repositories 
+<p align="center">
+  <a href="https://github.com/TakeoutCode/tiktok-clone" target="_bank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TakeoutCode&repo=tiktok-clone&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TakeoutCode/cursoIntroReact" target="_bank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TakeoutCode&repo=cursoIntroReact&theme=tokyonight" />
+  </a>
+</p>
+
+
