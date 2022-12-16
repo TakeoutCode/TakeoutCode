@@ -72,7 +72,7 @@
   <a href="https://github.com/TakeoutCode/github-readme-stats" target="_bank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=TakeoutCode&show_icons=true&theme=tokyonight" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakeoutCode&theme=tokyonight" />
   </a>
@@ -84,7 +84,7 @@
   <a href="https://github.com/TakeoutCode/tiktok-clone" target="_bank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TakeoutCode&repo=tiktok-clone&theme=tokyonight" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/TakeoutCode/cursoIntroReact" target="_bank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TakeoutCode&repo=cursoIntroReact&theme=tokyonight" />
   </a>
