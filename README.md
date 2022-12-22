@@ -27,34 +27,34 @@
    <a href="https://raulpacheco.dev/" target="_bank" name="saas">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=222222&logo=Typescript&logoColor=1572B6&label=">
    </a>
-  <a href="https://raulpacheco.dev/tags/react" target="_bank">
+  <a href="" target="_bank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=">
   </a>
-  <a href="https://raulpacheco.dev/tags/next" target="_bank" name="next">
+  <a href="" target="_bank" name="next">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=">
   </a>
-  <a href="https://raulpacheco.dev/tags/node" target="_bank" name="node">
+  <a href="" target="_bank" name="node">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=">
   </a>
-  <a href="https://raulpacheco.dev/tags/html" target="_bank" name="html">
+  <a href="" target="_bank" name="html">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=">
   </a>
-  <a href="https://raulpacheco.dev/tags/css" target="_bank" name="css">
+  <a href="" target="_bank" name="css">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=">
   </a>
-  <a href="https://raulpacheco.dev/tags/javascript" target="_bank" name="javascript">
+  <a href="" name="javascript">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=">
   </a>
-  <a href="https://raulpacheco.dev/" target="_bank" name="PostgreSQL">
+  <a href="" target="_bank" name="PostgreSQL">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=">
   </a>
-  <a href="https://raulpacheco.dev/" target="_bank" name="MongoDB">
+  <a href="" target="_bank" name="MongoDB">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=">
   </a>
-  <a href="https://raulpacheco.dev/" target="_bank" name="Firebase">
+  <a href="" target="_bank" name="Firebase">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=">
   </a>
-  <a href="https://raulpacheco.dev/" target="_bank" name="saas">
+  <a href="" target="_bank" name="saas">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=">
   </a>
    
