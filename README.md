@@ -24,7 +24,7 @@
 <h2>⚒ Technical skills</h2>
 <p>
   
-   <a href="https://raulpacheco.dev/" target="_bank" name="saas">
+   <a href="" target="_bank" name="typescript">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Typescript&color=222222&logo=Typescript&logoColor=1572B6&label=">
    </a>
   <a href="" target="_bank">
